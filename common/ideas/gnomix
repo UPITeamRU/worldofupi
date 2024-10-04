@@ -1,0 +1,10 @@
+ideas = {
+    country = { 
+        maklya_idea = {
+            picture = my_picture
+            modifier = {
+                political_power_factor = -0.1
+            }
+        }
+    }
+}
